@@ -27,7 +27,7 @@
 
 <h2 align="center">"Technology is best when it brings people together".<br>
 Matt Mullenweg - Social media entrepreneur</a></h2>
-<h6 align="center">Made with ❤️ by Me </h6>
+<h6 align="center">Made with ❤️ by BN </h6>
 
 
 
