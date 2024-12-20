@@ -18,7 +18,6 @@
 
 ## By the way here are some of my statistics 🚀
 ![bahasuru-naya's github stats](https://github-readme-stats.vercel.app/api?username=bahasuru-naya&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bahasuru-naya&theme=tokyonight" alt="mystreak"/>
 ![bahasuru-naya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahasuru-naya&theme=tokyonight&layout=compact)
 
 🌱 I’m currently learning Java and Python
