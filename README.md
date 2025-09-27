@@ -99,7 +99,7 @@
 <h2 align="center">"Technology is best when it brings people together".<br>
 Matt Mullenweg - Social media entrepreneur</a></h2>
 
-## 🌐 Socials:
+## 🌐 My Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahasuru-nayanakantha) 
 [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/bahasurun/) 
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23585648/bahasuru-nayanakantha) 
