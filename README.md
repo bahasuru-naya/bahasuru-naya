@@ -8,6 +8,7 @@
 <p align="center">
     <img  src="https://github.com/bahasuru-naya/bahasuru-naya/blob/main/giphy%20(1).gif" >
 </p>
+
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Github+Profile..&hearts;++;Computer+Engineering+Undergraduate,;Blogger,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
@@ -59,6 +60,11 @@
 ### Mobile
 [![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?logo=android&logoColor=white)](#)
 
+### Design
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white) 
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?logo=figma&logoColor=white)
+
 ### Tools & Others
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
@@ -68,16 +74,39 @@
 
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-## 🚀 By the way here are some of my statistics 
-![bahasuru-naya's github stats](https://github-readme-stats.vercel.app/api?username=bahasuru-naya&show_icons=true&theme=tokyonight)
-![bahasuru-naya's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bahasuru-naya&theme=tokyonight&layout=compact)
+## 🚀 By the Way Here are Some of My Statistics 
 
+### 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=bahasuru-naya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+
+### 🌞 GitHub Streak
+
+![](https://nirzak-streak-stats.vercel.app/?user=bahasuru-naya&theme=dark&hide_border=false)<br/>
+
+### 🚩 Most Used Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahasuru-naya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=bahasuru-naya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=bahasuru-naya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <h2 align="center">"Technology is best when it brings people together".<br>
 Matt Mullenweg - Social media entrepreneur</a></h2>
+
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/bahasuru-nayanakantha) 
+[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://www.pinterest.com/bahasurun/) 
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/23585648/bahasuru-nayanakantha) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:p.h.d.bahasuru@gmail.com) 
+
 <h6 align="center">Made with ❤️ by BN </h6>
+
 
 
 
