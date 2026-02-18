@@ -76,23 +76,13 @@
 
 ## 🚀 By the Way Here are Some of My Statistics 
 
-### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=bahasuru-naya&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ### 🌞 GitHub Streak
 
 ![](https://nirzak-streak-stats.vercel.app/?user=bahasuru-naya&theme=dark&hide_border=false)<br/>
 
-### 🚩 Most Used Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=bahasuru-naya&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=bahasuru-naya&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=bahasuru-naya&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
