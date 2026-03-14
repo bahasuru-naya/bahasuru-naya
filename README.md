@@ -10,14 +10,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Github+Profile..&hearts;++;Computer+Engineering+Undergraduate,;Blogger,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Welcome+to+My+Github+Profile..&hearts;++;Computer+Engineering+Undergraduate,;Active+Learner,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 
-- 🔭 I’m currently working on my projects
-- 🌱 I’m currently learning different things
-- 📚 I’m an Undergraduate at General Sir John Kotelawala Defence University
-- 💬 Ask me about Programming
-- ⚡ Fun fact: Call me BN
+Welcome to my Github account! I'm Bahasuru Nayanakantha, a dedicated Computer Engineering undergraduate with a strong focus on AI, software development, electronics, and problem-solving. Explore my journey, technical expertise, and the projects that reflect my commitment to excellence.
   
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
