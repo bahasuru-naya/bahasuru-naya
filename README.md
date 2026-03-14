@@ -6,7 +6,7 @@
 ## ☺️ About Me
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bahasuru-naya/bahasuru-naya/main/Programming.gif" height="1000">
+  <img src="https://raw.githubusercontent.com/bahasuru-naya/bahasuru-naya/main/my.png" height="400">
 </p>
 
 <p align="center">
