@@ -74,7 +74,7 @@ Welcome to my Github account! I'm Bahasuru Nayanakantha, a dedicated Computer En
 
 ### 🌞 GitHub Streak
 
-![](https://nirzak-streak-stats.vercel.app/?user=bahasuru-naya&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=bahasuru-naya&theme=tokyonight)
 
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
