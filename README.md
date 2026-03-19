@@ -77,7 +77,7 @@ Welcome to my Github account! I'm Bahasuru Nayanakantha, a dedicated Computer En
 ![GitHub Streak](https://streak-stats.demolab.com?user=bahasuru-naya&theme=tokyonight)
 
 ### 🔥 Contribution Graph
-[![bahasuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bahasuru-naya&theme=tokyonight)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![bahasuru's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=bahasuru-naya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <a ><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
